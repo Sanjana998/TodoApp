@@ -1,0 +1,11 @@
+.Header {
+  color: rgb(55, 21, 60);
+  background-color: lightpink;
+  text-align: center;
+  font-weight: bold;
+  height: 70px;
+  padding: 5px;
+  font-size: 3em;
+  /* shadow is given all angles, last 0.2 is the opacity */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
